@@ -1,0 +1,22 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 1rem;
+    font-family: sans-serif;
+}
+
+.container {
+    background-color: #dfc6c6;
+    border-radius: 1rem;
+    box-shadow: 0px 10px 100px rgba(0, 0, 0, 0.1);
+}
